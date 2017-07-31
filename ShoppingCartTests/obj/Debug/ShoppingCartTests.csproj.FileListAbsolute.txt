@@ -1,0 +1,9 @@
+F:\TDD\ShoppingCartTests\ShoppingCartTests\obj\Debug\ShoppingCartTests.csprojResolveAssemblyReference.cache
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\ShoppingCartTests.dll
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\ShoppingCartTests.pdb
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\nunit.framework.dll
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\nunit.framework.xml
+F:\TDD\ShoppingCartTests\ShoppingCartTests\obj\Debug\ShoppingCartTests.dll
+F:\TDD\ShoppingCartTests\ShoppingCartTests\obj\Debug\ShoppingCartTests.pdb
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\ShoppingCart.dll
+F:\TDD\ShoppingCartTests\ShoppingCartTests\bin\Debug\ShoppingCart.pdb
