@@ -1,4 +1,4 @@
-﻿namespace ShoppingCart
+﻿namespace ShoppingCart.Common
 {
     public class CartItem
     {

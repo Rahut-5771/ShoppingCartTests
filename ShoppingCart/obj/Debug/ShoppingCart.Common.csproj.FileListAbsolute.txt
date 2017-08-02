@@ -1,0 +1,5 @@
+F:\TDD\ShoppingCartTests\ShoppingCart\bin\Debug\ShoppingCart.dll
+F:\TDD\ShoppingCartTests\ShoppingCart\bin\Debug\ShoppingCart.pdb
+F:\TDD\ShoppingCartTests\ShoppingCart\obj\Debug\ShoppingCart.Common.csprojResolveAssemblyReference.cache
+F:\TDD\ShoppingCartTests\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\TDD\ShoppingCartTests\ShoppingCart\obj\Debug\ShoppingCart.pdb
